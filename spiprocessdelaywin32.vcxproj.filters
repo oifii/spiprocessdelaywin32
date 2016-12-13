@@ -22,6 +22,7 @@
     <None Include="spiprocessdelaywin32.ico">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="spi.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
